@@ -1,0 +1,54 @@
+body {
+}
+.container{
+	width: 100%;
+	height: 100vh;
+}
+
+.main_navigation{
+	height: 14vh;
+	width: 100%;
+	background-color: lightgrey;
+	overflow: hidden;
+
+}
+
+.logo{
+	width: 78px;
+	height:78px;
+	margin-top: 10px;
+	margin-left: 20px;
+	background-color: #3399ff;
+}
+
+.main_article{
+	width: 100%;
+	height: 30vh;
+	background-color: white;
+}
+
+.product_container{
+	
+
+}
+
+.product{
+	height: 14vh;
+	width: 100%;
+}
+
+#product_1{
+	background-color: #3399ff;
+}
+
+#product_2{
+	background-color: #33ffd6;
+}
+
+#product_3{
+	background-color: #ccff99;
+}
+
+#product_4{
+	background-color: #ffff00;
+}
